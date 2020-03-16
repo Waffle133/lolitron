@@ -1,0 +1,4 @@
+# lolitron
+First Discord Bot
+
+
